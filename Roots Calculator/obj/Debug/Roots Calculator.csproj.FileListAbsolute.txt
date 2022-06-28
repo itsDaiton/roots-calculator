@@ -1,0 +1,19 @@
+E:\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.exe.config
+E:\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.exe
+E:\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.pdb
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.csprojResolveAssemblyReference.cache
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots_Calculator.Properties.Resources.resources
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.csproj.GenerateResource.Cache
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.csproj.CoreCompileInputs.cache
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.exe
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.pdb
+E:\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots_Calculator.FormMain.resources
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.exe.config
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.exe
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\bin\Debug\Roots Calculator.pdb
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.csprojAssemblyReference.cache
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots_Calculator.FormMain.resources
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots_Calculator.Properties.Resources.resources
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.csproj.GenerateResource.cache
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.exe
+E:\Programming\C#\Coding Projects\Roots Calculator\Roots Calculator\obj\Debug\Roots Calculator.pdb
