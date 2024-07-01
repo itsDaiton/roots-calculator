@@ -18,7 +18,7 @@ A very old high school project that consists of a simple C# application that let
 * Get results
 
 ## Built With
-C#
+* C#
 
 ## Authors
 
